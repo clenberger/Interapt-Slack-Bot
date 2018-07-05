@@ -1,0 +1,18 @@
+{
+  "name": "slackboy",
+  "version": "1.0.0",
+  "description": "Slack bot that takes attendance",
+  "main": "slackboy.js",
+  "scripts": {
+    "start": "node slackboy.js"
+  },
+  "author": "Christian Lenberger",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "slackbots": "^1.1.0"
+  },
+  "devDependencies": {
+    "@types/firebase": "^3.2.1"
+  }
+}
